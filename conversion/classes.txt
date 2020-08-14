@@ -1,0 +1,7 @@
+model_no
+lotmark
+single_ringmark
+double_ringmark
+slurry_stick
+arrow
+marking_shift
